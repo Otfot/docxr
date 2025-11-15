@@ -14,8 +14,6 @@ import (
 	"github.com/beevik/etree"
 )
 
-
-
 // Docx represents a Word document.
 // It is used to read, manipulate, and write Word documents.
 // It is not thread-safe.
